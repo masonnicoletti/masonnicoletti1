@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Second-Year student at the University of Virginia studying Data Science.
+My name is Mason Nicoletti, and I am a Second-Year student at the University of Virginia studying Data Science.
 <!--
 **masonnicoletti1/masonnicoletti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
