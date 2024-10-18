@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Mason Nicoletti, and I am a Second-Year student at the University of Virginia studying Data Science.
+My name is Mason Nicoletti, and I am a Second-Year student studying Data Science at the University of Virginia. I am seeking to gain practical experience in handling complex data sets to address real-world issues through data-driven decision making. In particular, I am highly motivated to apply my programming experience and use skills in computer systems and data analytics to make an meaningful impact in the healthcare field.
+
+*You can find more information about me on my Linkedin:* www.linkedin.com/in/masonnicoletti.
 <!--
 **masonnicoletti1/masonnicoletti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
