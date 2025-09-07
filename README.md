@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mason Nicoletti, and I am a Second-Year student studying Data Science at the University of Virginia. I am seeking to gain practical experience in handling complex data sets to address real-world issues through data-driven decision making. In particular, I am highly motivated to apply my programming experience and use skills in computer systems and data analytics to make an meaningful impact in the healthcare field.
+My name is Mason Nicoletti, and I am a Third-Year student studying Data Science at the University of Virginia. I am seeking to gain practical experience in handling complex data sets to address real-world issues through data-driven decision making. In particular, I am highly motivated to apply my programming experience and use skills in computer systems and data analytics to make an meaningful impact in the field of medicine.
 
 *You can find more information about me on my Linkedin:* www.linkedin.com/in/masonnicoletti.
 <!--
